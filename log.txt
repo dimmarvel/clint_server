@@ -1,0 +1,9 @@
+[2024-09-11 18:22:17.006] [log.txt] [info]  auth_message:Name1
+[2024-09-11 18:22:18.717] [log.txt] [info]  auth_message:Name2
+[2024-09-11 18:22:24.317] [log.txt] [info]  auth_message:Name3
+[2024-09-11 18:22:27.028] [log.txt] [info] Name3 qweasdzxc
+[2024-09-11 18:22:29.180] [log.txt] [info] Name2 qweasdzxc
+[2024-09-11 18:22:31.916] [log.txt] [info] Name1 qweasdzxc
+[2024-09-11 18:22:34.830] [log.txt] [info] Name1 end
+[2024-09-11 18:22:36.886] [log.txt] [info] Name2 end
+[2024-09-11 18:22:41.777] [log.txt] [info] Name3 end
